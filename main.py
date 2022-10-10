@@ -3,9 +3,6 @@ import random
 seed = input('Enter seed:')
 random.seed(seed)
 ### Do not make changes above this line! ###
-#ddebonis
-#10/9/2022
-# CSC1019-680-Fall22
 #setting base dollar amount and setting the base gamble count
 dollar = 10
 count = 0
